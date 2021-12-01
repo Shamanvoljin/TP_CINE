@@ -1,0 +1,26 @@
+[
+    {
+        "email": "mi_correo@hotmail.com",
+        "password": "sistema",
+        "firstName": "juani",
+        "lastName": "asd",
+        "dni": "86744",
+        "token": "510986",
+        "role": {
+            "roleName": "Sistema",
+            "idRole": 1
+        }
+    },
+    {
+        "email": "mi_correo2@hotmail.com",
+        "password": "sistema",
+        "firstName": "juani",
+        "lastName": "qwe",
+        "dni": "87484",
+        "token": "241336",
+        "role": {
+            "roleName": "Administrador",
+            "idRole": 2
+        }
+    }
+]

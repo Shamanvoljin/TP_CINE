@@ -1,0 +1,429 @@
+[
+    {
+        "filmTitle": "Joker",
+        "length": 122,
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w300\/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+        "language": "en",
+        "categoryList": [
+            {
+                "description": "Crime"
+            },
+            {
+                "description": "Thriller"
+            },
+            {
+                "description": "Drama"
+            }
+        ]
+    },
+    {
+        "filmTitle": "Maleficent: Mistress of Evil",
+        "length": 118,
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w300\/tBuabjEqxzoUBHfbyNbd8ulgy5j.jpg",
+        "language": "en",
+        "categoryList": [
+            {
+                "description": "Fantasy"
+            },
+            {
+                "description": "Adventure"
+            },
+            {
+                "description": "Family"
+            }
+        ]
+    },
+    {
+        "filmTitle": "Terminator: Dark Fate",
+        "length": 128,
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w300\/vqzNJRH4YyquRiWxCCOH0aXggHI.jpg",
+        "language": "en",
+        "categoryList": [
+            {
+                "description": "Action"
+            },
+            {
+                "description": "Science Fiction"
+            }
+        ]
+    },
+    {
+        "filmTitle": "El Camino: A Breaking Bad Movie",
+        "length": 123,
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w300\/ePXuKdXZuJx8hHMNr2yM4jY2L7Z.jpg",
+        "language": "en",
+        "categoryList": [
+            {
+                "description": "Crime"
+            },
+            {
+                "description": "Drama"
+            },
+            {
+                "description": "Thriller"
+            }
+        ]
+    },
+    {
+        "filmTitle": "Ip Man 4: The Finale",
+        "length": null,
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w300\/mAWBfTDAmfpvQGMVFuzuVl49N1P.jpg",
+        "language": "cn",
+        "categoryList": [
+            {
+                "description": "Action"
+            },
+            {
+                "description": "Drama"
+            },
+            {
+                "description": "History"
+            }
+        ]
+    },
+    {
+        "filmTitle": "It Chapter Two",
+        "length": 169,
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w300\/zfE0R94v1E8cuKAerbskfD3VfUt.jpg",
+        "language": "en",
+        "categoryList": [
+            {
+                "description": "Horror"
+            }
+        ]
+    },
+    {
+        "filmTitle": "Zombieland: Double Tap",
+        "length": 99,
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w300\/pIcV8XXIIvJCbtPoxF9qHMKdRr2.jpg",
+        "language": "en",
+        "categoryList": [
+            {
+                "description": "Horror"
+            },
+            {
+                "description": "Action"
+            },
+            {
+                "description": "Comedy"
+            }
+        ]
+    },
+    {
+        "filmTitle": "Scary Stories to Tell in the Dark",
+        "length": 103,
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w300\/d0FWbzrmm99BTfUqf1Lbjl2zu3S.jpg",
+        "language": "en",
+        "categoryList": [
+            {
+                "description": "Horror"
+            },
+            {
+                "description": "Thriller"
+            }
+        ]
+    },
+    {
+        "filmTitle": "Gemini Man",
+        "length": 117,
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w300\/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg",
+        "language": "en",
+        "categoryList": [
+            {
+                "description": "Action"
+            },
+            {
+                "description": "Thriller"
+            }
+        ]
+    },
+    {
+        "filmTitle": "One Piece: Stampede",
+        "length": 101,
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w300\/4E2lyUGLEr3yH4q6kJxPkQUhX7n.jpg",
+        "language": "ja",
+        "categoryList": [
+            {
+                "description": "Animation"
+            },
+            {
+                "description": "Action"
+            },
+            {
+                "description": "Adventure"
+            }
+        ]
+    },
+    {
+        "filmTitle": "John Wick: Chapter 3 - Parabellum",
+        "length": 131,
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w300\/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg",
+        "language": "en",
+        "categoryList": [
+            {
+                "description": "Action"
+            },
+            {
+                "description": "Thriller"
+            },
+            {
+                "description": "Crime"
+            }
+        ]
+    },
+    {
+        "filmTitle": "Once Upon a Time... in Hollywood",
+        "length": 161,
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w300\/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+        "language": "en",
+        "categoryList": [
+            {
+                "description": "Drama"
+            },
+            {
+                "description": "Comedy"
+            }
+        ]
+    },
+    {
+        "filmTitle": "Hustlers",
+        "length": 107,
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w300\/zBhv8rsLOfpFW2M5b6wW78Uoojs.jpg",
+        "language": "en",
+        "categoryList": [
+            {
+                "description": "Comedy"
+            },
+            {
+                "description": "Crime"
+            },
+            {
+                "description": "Drama"
+            }
+        ]
+    },
+    {
+        "filmTitle": "Black and Blue",
+        "length": 109,
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w300\/fjmMu9fpqMMF17mCyLhNfkagKB0.jpg",
+        "language": "en",
+        "categoryList": [
+            {
+                "description": "Action"
+            },
+            {
+                "description": "Crime"
+            },
+            {
+                "description": "Drama"
+            }
+        ]
+    },
+    {
+        "filmTitle": "Yesterday",
+        "length": 116,
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w300\/1rjaRIAqFPQNnMtqSMLtg0VEABi.jpg",
+        "language": "en",
+        "categoryList": [
+            {
+                "description": "Comedy"
+            },
+            {
+                "description": "Music"
+            },
+            {
+                "description": "Romance"
+            },
+            {
+                "description": "Fantasy"
+            }
+        ]
+    },
+    {
+        "filmTitle": "The Mystery of the Dragon\u2019s Seal",
+        "length": 121,
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w300\/vS6TCG4HiUSCyX30f5wDGQDt1k3.jpg",
+        "language": "ru",
+        "categoryList": [
+            {
+                "description": "Adventure"
+            },
+            {
+                "description": "Fantasy"
+            }
+        ]
+    },
+    {
+        "filmTitle": "The Laundromat",
+        "length": 96,
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w300\/hwNMJgbiUUvPCxsnADjbV9ysM5j.jpg",
+        "language": "en",
+        "categoryList": [
+            {
+                "description": "Drama"
+            },
+            {
+                "description": "Crime"
+            },
+            {
+                "description": "Comedy"
+            }
+        ]
+    },
+    {
+        "filmTitle": "Long Shot",
+        "length": 125,
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w300\/m2ttWZ8rMRwIMT7zA48Jo6mTkDS.jpg",
+        "language": "en",
+        "categoryList": [
+            {
+                "description": "Comedy"
+            },
+            {
+                "description": "Romance"
+            }
+        ]
+    },
+    {
+        "filmTitle": "The Angry Birds Movie 2",
+        "length": 96,
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w300\/ebe8hJRCwdflNQbUjRrfmqtUiNi.jpg",
+        "language": "en",
+        "categoryList": [
+            {
+                "description": "Animation"
+            },
+            {
+                "description": "Comedy"
+            },
+            {
+                "description": "Action"
+            },
+            {
+                "description": "Adventure"
+            },
+            {
+                "description": "Family"
+            }
+        ]
+    },
+    {
+        "filmTitle": "Stuber",
+        "length": 93,
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w300\/klkFYDZOetegK8floj6IjvbzzQ2.jpg",
+        "language": "en",
+        "categoryList": [
+            {
+                "description": "Action"
+            },
+            {
+                "description": "Comedy"
+            },
+            {
+                "description": "Thriller"
+            },
+            {
+                "description": "Crime"
+            }
+        ]
+    },
+    {
+        "filmTitle": "Doctor Sleep",
+        "length": "152",
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w300\/p69QzIBbN06aTYqRRiCOY1emNBh.jpg",
+        "language": "Ingles",
+        "categoryList": [
+            {
+                "description": "Horror"
+            }
+        ]
+    },
+    {
+        "filmTitle": "The King",
+        "length": "140",
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w300\/8u0QBGUbZcBW59VEAdmeFl9g98N.jpg",
+        "language": "Ingles",
+        "categoryList": [
+            {
+                "description": "Drama"
+            },
+            {
+                "description": "History"
+            },
+            {
+                "description": "War"
+            }
+        ]
+    },
+    {
+        "filmTitle": "Parasite",
+        "length": "132",
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w300\/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+        "language": "Coreano",
+        "categoryList": [
+            {
+                "description": "Drama"
+            },
+            {
+                "description": "Thriller"
+            },
+            {
+                "description": "Comedy"
+            }
+        ]
+    },
+    {
+        "filmTitle": "Dora and the Lost City of Gold",
+        "length": "102",
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w300\/xvYCZ740XvngXK0FNeSNVTJJJ5v.jpg",
+        "language": "Ingles",
+        "categoryList": [
+            {
+                "description": "Adventure"
+            },
+            {
+                "description": "Comedy"
+            },
+            {
+                "description": "Family"
+            }
+        ]
+    },
+    {
+        "filmTitle": "The Dead Don't Die",
+        "length": "104",
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w300\/fgGzTEoNxptCRtEOpOPvIEdlxAq.jpg",
+        "language": "Ingles",
+        "categoryList": [
+            {
+                "description": "Comedy"
+            },
+            {
+                "description": "Horror"
+            },
+            {
+                "description": "Fantasy"
+            }
+        ]
+    },
+    {
+        "filmTitle": "Midway",
+        "length": "138",
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w300\/xL1yNzwGSXfassYpt13hXADpz6R.jpg",
+        "language": "Ingles",
+        "categoryList": [
+            {
+                "description": "War"
+            },
+            {
+                "description": "History"
+            },
+            {
+                "description": "Action"
+            },
+            {
+                "description": "Drama"
+            }
+        ]
+    }
+]

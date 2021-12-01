@@ -1,0 +1,59 @@
+[
+    {
+        "description": "Action"
+    },
+    {
+        "description": "Adventure"
+    },
+    {
+        "description": "Animation"
+    },
+    {
+        "description": "Comedy"
+    },
+    {
+        "description": "Crime"
+    },
+    {
+        "description": "Documentary"
+    },
+    {
+        "description": "Drama"
+    },
+    {
+        "description": "Family"
+    },
+    {
+        "description": "Fantasy"
+    },
+    {
+        "description": "History"
+    },
+    {
+        "description": "Horror"
+    },
+    {
+        "description": "Music"
+    },
+    {
+        "description": "Mystery"
+    },
+    {
+        "description": "Romance"
+    },
+    {
+        "description": "Science Fiction"
+    },
+    {
+        "description": "TV Movie"
+    },
+    {
+        "description": "Thriller"
+    },
+    {
+        "description": "War"
+    },
+    {
+        "description": "Western"
+    }
+]
